@@ -3,7 +3,7 @@ from ibm_watson_machine_learning.foundation_models.extensions.langchain import W
 from ibm_watson_machine_learning.metanames import GenTextParamsMetaNames as GenParams
 
 my_credentials = {
-    "url"    : "https://us-south.ml.cloud.ibm.com"
+    "url"    : "..."
 }
 
 params = {
